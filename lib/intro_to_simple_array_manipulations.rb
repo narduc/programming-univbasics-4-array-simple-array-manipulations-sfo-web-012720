@@ -30,6 +30,6 @@ def using_insert(array, ele)
   array.insert(4,ele)
 end
 
-def using_unshift(array, string)
-  
+def using_uniq(array)
+  array.uniq
 end
